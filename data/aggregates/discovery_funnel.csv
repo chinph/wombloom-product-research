@@ -1,0 +1,8 @@
+step,removed,remaining
+All unique apps found,,1464
+Relevance: pregnancy or baby terms in name/description,170.0,1294
+"Category in ['Education', 'Health & Fitness', 'Lifestyle', 'Medical', 'Social Networking']",119.0,1175
+Out of scope: cycle/fertility tracker without 'pregnan' in name,39.0,1136
+"At least 1,000 ratings",1027.0,109
+Updated within 365 days,13.0,96
+Duplicate / regional clone (same normalized name),4.0,92
