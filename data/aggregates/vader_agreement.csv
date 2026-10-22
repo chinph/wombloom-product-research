@@ -1,0 +1,10 @@
+star_label,vader_label,pct
+negative,negative,44.36026936026936
+negative,neutral,8.080808080808081
+negative,positive,47.55892255892255
+neutral,negative,23.093681917211327
+neutral,neutral,3.7037037037037033
+neutral,positive,73.20261437908496
+positive,negative,1.803979914450437
+positive,neutral,1.0786684024549005
+positive,positive,97.11735168309467

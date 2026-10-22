@@ -1,0 +1,12 @@
+# Environment
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.streamlit/secrets.toml
+
+# Review-level data stays local: it contains review text.
+# Everything the notebooks and dashboard need is in data/aggregates/ and data/registers/.
+data/raw/
+data/clean/
+data/wombloom.db

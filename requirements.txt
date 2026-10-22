@@ -1,0 +1,10 @@
+requests
+pandas
+numpy
+matplotlib
+langdetect
+vaderSentiment
+scikit-learn
+ipykernel
+nbclient
+streamlit>=1.50
