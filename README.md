@@ -2,7 +2,7 @@
 
 I designed Wombloom, a private pregnancy and baby journal for iPhone, out of my own need during pregnancy. Before deciding what it should do first, I wanted evidence beyond my own experience. So I collected and analyzed App Store reviews of ten competing apps, built and validated a way to read what they are about, ranked the possible features, and checked my own plan against the result.
 
-**Start here:** [the case study notebook](notebooks/wombloom_case_study.ipynb) · [interactive dashboard](dashboard/README.md) *(link after deployment)* · [full working notebook](notebooks/appendix_working_notebook.ipynb)
+**Start here:** [the case study notebook](notebooks/wombloom_case_study.ipynb) · [interactive dashboard](https://wombloom-analysis-research.streamlit.app/) · [full working notebook](notebooks/appendix_working_notebook.ipynb)
 
 ## The questions
 1. What do parents praise and complain about in the apps they already use?

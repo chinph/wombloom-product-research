@@ -1,5 +1,7 @@
 # Wombloom research dashboard
 
+**Live:** https://wombloom-analysis-research.streamlit.app/
+
 An interactive companion to the case study: the feature gap matrix, the priority model with adjustable weights and
 effort, the evidence and quotes behind each action, and the plan compared with what Wombloom v1.0 contains.
 
